@@ -63,7 +63,3 @@ I'm **Ramadhani Safitri**, an Information Systems graduate from **Andalas Univer
 💌 **Email:** [ramadhanisgy@gmail.com](mailto:ramadhanisgy@gmail.com)
 
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rmdsftr)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
